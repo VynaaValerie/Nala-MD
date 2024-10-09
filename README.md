@@ -8,7 +8,7 @@
 
 ---
 
-ðŸŒ¸ **Nala MD** adalah bot WhatsApp multi-device berbasis Node.js dengan fitur lengkap untuk memudahkan dan mempercantik pengalaman di WhatsApp Anda. Dengan desain modern dan fitur interaktif, bot ini memberikan kemudahan automasi yang dapat disesuaikan sesuai kebutuhan.
+**Nala MD** adalah bot WhatsApp multi-device berbasis Node.js dengan fitur lengkap untuk memudahkan dan mempercantik pengalaman di WhatsApp Anda. Dengan desain modern dan fitur interaktif, bot ini memberikan kemudahan automasi yang dapat disesuaikan sesuai kebutuhan.
 
 ##  Fitur Utama
 - **Multi-device**: Tidak perlu scan QR berulang kali untuk menggunakan di perangkat baru.
