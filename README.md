@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://media.giphy.com/media/3o7btMCltyDvSgF92E/giphy.gif" width="100" height="100">
   
@@ -106,4 +105,8 @@ Jika Anda memerlukan bantuan lebih lanjut:
 
 ---
 
-**Enjoy Nala MD! ðŸŒº Selamat menggunakan bot WhatsApp Multi-Device dengan fitur lengkap!**
+**Enjoy Nala MD! Selamat menggunakan bot WhatsApp Multi-Device dengan fitur lengkap!**
+
+**Base Ori By KreyBot**
+
+
