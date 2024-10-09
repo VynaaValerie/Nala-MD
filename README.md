@@ -1,29 +1,109 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome</title>
-</head>
-<body>
-    <div style="text-align: center;">
-        <h1>Welcome</h1>
-        <img src="https://telegra.ph/file/4a727b4148415100fc260.jpg" alt="Welcome gif" width="250px">
-    </div>
-   <div style="text-align: center;">
-    <h4 style="display: inline-block; margin-right: 20px;"><a href="https://youtube.com/@kkreyuk" style="color: red;">SUBSCRIBE</a></h4>
-    <h4 style="display: inline-block;"><a href="https://t.me/kreyuk" style="color: red;">TELEGRAM</a></h4>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7btMCltyDvSgF92E/giphy.gif" width="100" height="100">
+  
+  # **Nala MD** - WhatsApp Multi-Device Bot
+
+  <sub>Automate your WhatsApp experience with style and ease. Built by [VynaaValerie](https://github.com/VynaaValerie)</sub>
 </div>
-    <div style="text-align: center;">
-        <a href="https://saweria.co/Kreyuk" target="_blank"><img src="https://i.ibb.co/NVdKQdQ/20240321-155753.png" height="70" style="border:0px;height:70px;" alt="DONATE FOR ME :V"></a>
-    </div>
-    <div style="text-align: center;">
-       <div style="text-align: center;">
-    <p style="font-size: 18px; font-weight: bold;">Hi guys,My Name is Krey</p>
+
+---
+
+ðŸŒ¸ **Nala MD** adalah bot WhatsApp multi-device berbasis Node.js dengan fitur lengkap untuk memudahkan dan mempercantik pengalaman di WhatsApp Anda. Dengan desain modern dan fitur interaktif, bot ini memberikan kemudahan automasi yang dapat disesuaikan sesuai kebutuhan.
+
+##  Fitur Utama
+- **Multi-device**: Tidak perlu scan QR berulang kali untuk menggunakan di perangkat baru.
+- **Custom Commands**: Buat respon otomatis untuk berbagai perintah.
+- **Stiker Maker**: Ubah gambar atau video menjadi stiker yang lucu dan menarik.
+- **Media Downloader**: Download media dari YouTube, Instagram, TikTok, dan lainnya.
+- **Admin Tools**: Kelola grup dengan fitur khusus seperti kick, add, mute, dan lainnya.
+- **Fun Features**: Game interaktif, tebak gambar, kalkulator cinta, dan lainnya.
+- **Customizable**: Sesuaikan sesuai preferensi Anda.
+
+---
+
+## Install & Jalankan
+### Untuk pengguna Desktop
+1. **Clone** repositori ini:
+   ```bash
+   git clone https://github.com/VynaaValerie/Nala-MD.git
+   cd Nala-MD
+   ```
+2. **Install dependensi**:
+   ```bash
+   npm install
+   ```
+3. **Mulai bot**:
+   ```bash
+   npm start
+   ```
+
+### Untuk pengguna Termux
+1. Update dan install dependensi dasar:
+   ```bash
+   pkg update && pkg upgrade
+   pkg install git nodejs
+   ```
+2. **Clone** repositori ini:
+   ```bash
+   git clone https://github.com/VynaaValerie/Nala-MD.git
+   cd Nala-MD
+   ```
+3. **Install dependensi Node.js**:
+   ```bash
+   npm install
+   ```
+4. **Jalankan bot**:
+   ```bash
+   node index.js
+   ```
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/1rNWQd4eGr1cx6DKO4/giphy.gif" width="300">
 </div>
-    </div>
-    <div style="text-align: center;">
-        <a href="https://github.com/kkreyuk"><img src="https://github-readme-stats.vercel.app/api?username=kkreyuk&show_icons=true&theme=radical"></a>
-    </div>
-</body>
-</html>
+
+---
+
+##  Command Utama
+| Command        | Deskripsi                                  |
+|----------------|-------------------------------------------|
+| **!menu**      | Menampilkan daftar perintah bot           |
+| **!sticker**   | Membuat stiker dari gambar/video          |
+| **!play** <judul> | Download lagu dari YouTube         |
+| **!ytmp4** <url> | Download video dari YouTube         |
+| **!igdl** <url> | Download video/gambar dari Instagram |
+| **!tiktok** <url> | Download video dari TikTok           |
+| **!kick** <tag>  | Mengeluarkan anggota (admin only)    |
+| **!add** <nomor> | Menambahkan anggota (admin only)      |
+| **!mute**       | Mute bot sementara di grup              |
+
+---
+
+## Struktur Proyek
+```
+Nala-MD/
+â”œâ”€â”€ config/             # Pengaturan utama
+â”œâ”€â”€ lib/                # Library tambahan
+â”œâ”€â”€ session/            # Sesi WhatsApp
+â”œâ”€â”€ commands/           # File perintah
+â””â”€â”€ index.js            # File utama
+```
+
+---
+
+##  Kontak & Dukungan
+Jika Anda memerlukan bantuan lebih lanjut:
+- [**WhatsApp**](https://wa.me/628123456789)
+- [**Telegram**](https://t.me/nala_bot_support)
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="60">
+</div>
+
+---
+
+**Enjoy Nala MD! ðŸŒº Selamat menggunakan bot WhatsApp Multi-Device dengan fitur lengkap!**
