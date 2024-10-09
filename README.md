@@ -83,11 +83,11 @@
 ## Struktur Proyek
 ```
 Nala-MD/
-â”œâ”€â”€ config/             # Pengaturan utama
-â”œâ”€â”€ lib/                # Library tambahan
-â”œâ”€â”€ session/            # Sesi WhatsApp
-â”œâ”€â”€ commands/           # File perintah
-â””â”€â”€ index.js            # File utama
+--------- settings/             # Pengaturan utama
+--------- lib/                # Library tambahan
+--------- session/            # Sesi WhatsApp
+--------- commands/           # File perintah
+--------- index.js            # File utama
 ```
 
 ---
